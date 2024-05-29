@@ -1,7 +1,0 @@
-{
-    "greetings": ["Hi, how can I assist you with your college admission today?", "Hello! What admission information do you need?"],
-    "admission_procedure": ["The admission procedure involves filling out the application form, submitting required documents, and attending an interview if shortlisted."],
-    "requirements": ["The basic requirements are a high school diploma, standardized test scores, and recommendation letters."],
-    "deadlines": ["The application deadlines are as follows: Fall - July 31, Spring - December 15, Summer - April 30."],
-    "default": ["I'm sorry, I didn't understand that. Can you please rephrase?"]
-}
