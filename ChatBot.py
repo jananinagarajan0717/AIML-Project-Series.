@@ -133,7 +133,7 @@ class ChatBotApp:
 
     def respond_using_context(self, user_message):
         if "What's your name?" in self.context:
-            bot_response = f"Nice to meet you, {self.context['What\'s your name?']}! You said your favorite color is {self.context['What\'s your favorite color?']}, right?"
+            bot_response = f"{self.context['What\'s your name?']}! You said your favorite color is {self.context['What\'s your favorite color?']}, right?"
         else:
             bot_response = "Thank you for the information"        
         self.display_message("Pluto", bot_response)
