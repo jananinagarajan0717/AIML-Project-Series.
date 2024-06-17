@@ -2,21 +2,21 @@
 
 
 
-# Project 1: Simple Chatbot
+## Project 1: Simple Chatbot
 
 ### Output
 ![path_to_your_image/simple_chatbot_output.png](https://github.com/jananinagarajan0717/AIML-Project-Series./blob/main/Simple%20Chatbot/SimpleChatBotOutput.png?raw=true)
 
 ---
 
-# Project 2: Basic Q&A Bot for College Admission
+## Project 2: Basic Q&A Bot for College Admission
 
 ### Output
 ![path_to_your_image/college_admission_chatbot_output.png](https://github.com/jananinagarajan0717/AIML-Project-Series./blob/main/College%20Admission%20Chatbot/CollegeAdmissionBotOutput.png?raw=true)
 
 ---
 
-# Project 3:  Disease Prediction System using Machine Learning
+## Project 3:  Disease Prediction System using Machine Learning
 
 ## Project Description:
 The "Disease Prediction System using Machine Learning" project aims to 
@@ -26,5 +26,5 @@ utilize machine learning algorithms to analyze historical health data and make
 predictions, contributing to early disease detection and proactive healthcare 
 management.
 
-
 ### Output
+![path_to_your_image/college_admission_chatbot_output.png](https://github.com/jananinagarajan0717/AIML-Project-Series./blob/main/Disease%20Prediction%20System/DiseasePredictionSystemOutput.png?raw=true)
